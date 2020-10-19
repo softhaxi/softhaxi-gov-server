@@ -1,6 +1,6 @@
 [submodule "softhaxi-gov-web"]
 	path = softhaxi-gov-web
-	url = https://softhaxi:db70112c0bd51c516f5bdd534da1673c3f03f195@github.com/softhaxi/softhaxi-gov-web.git
+	url = https://github.com/softhaxi/softhaxi-gov-web.git
 [submodule "softhaxi-gov-common"]
 	path = softhaxi-gov-common
-	url = https://softhaxi:db70112c0bd51c516f5bdd534da1673c3f03f195@github.com/softhaxi/softhaxi-gov-common.git
+	url = https://github.com/softhaxi/softhaxi-gov-common.git
