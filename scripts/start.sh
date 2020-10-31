@@ -1,2 +1,2 @@
 #!/bin/bash
-nohup java -jar marves-core-web.jar > ./logs/start.debug 2>&1 & echo $! > ./pid.file
+nohup java -jar marves-core-web.jar spring.config.name=application spring.config.location=file://C:/Workspace/Microservice/Government/config > ./logs/start.debug 2>&1 & echo $! > ./pid.file
