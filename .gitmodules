@@ -4,3 +4,6 @@
 [submodule "softhaxi-gov-common"]
 	path = softhaxi-gov-common
 	url = https://github.com/softhaxi/softhaxi-gov-common.git
+[submodule "softhaxi-gov-scheduler"]
+	path = softhaxi-gov-scheduler
+	url = https://github.com/softhaxi/softhaxi-gov-scheduler.git
