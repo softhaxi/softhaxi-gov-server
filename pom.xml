@@ -18,7 +18,10 @@
 		<module>softhaxi-gov-domain</module>
 		<module>softhaxi-gov-business</module>
 		<module>softhaxi-gov-scheduler</module>
+		<module>softhaxi-gov-webcore</module>
+		<module>softhaxi-gov-api</module>
 		<module>softhaxi-gov-web</module>
+		<module>softhaxi-gov-app</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -85,6 +88,7 @@
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
+			<version>1.18.20</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.code.gson</groupId>
