@@ -1,6 +1,24 @@
-[submodule "softhaxi-gov-web"]
-	path = softhaxi-gov-web
-	url = https://github.com/softhaxi/softhaxi-gov-web.git
 [submodule "softhaxi-gov-common"]
 	path = softhaxi-gov-common
 	url = https://github.com/softhaxi/softhaxi-gov-common.git
+[submodule "softhaxi-gov-domain"]
+	path = softhaxi-gov-domain
+	url = https://github.com/softhaxi/softhaxi-gov-domain.git
+[submodule "softhaxi-gov-business"]
+	path = softhaxi-gov-business
+	url = https://github.com/softhaxi/softhaxi-gov-business.git
+[submodule "softhaxi-gov-scheduler"]
+	path = softhaxi-gov-scheduler
+	url = https://github.com/softhaxi/softhaxi-gov-scheduler.git
+[submodule "softhaxi-gov-webcore"]
+	path = softhaxi-gov-webcore
+	url = https://github.com/softhaxi/softhaxi-gov-webcore.git
+[submodule "softhaxi-gov-web"]
+	path = softhaxi-gov-web
+	url = https://github.com/softhaxi/softhaxi-gov-web.git
+[submodule "softhaxi-gov-api"]
+	path = softhaxi-gov-api
+	url = https://github.com/softhaxi/softhaxi-gov-api.git
+[submodule "softhaxi-gov-app"]
+	path = softhaxi-gov-app
+	url = https://github.com/softhaxi/softhaxi-gov-app.git
